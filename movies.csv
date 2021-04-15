@@ -9376,7 +9376,7 @@ movieId;title;genres
 9375;The Accountant (2016);Crime|Drama|Thriller
 9376;Imperium (2016);Crime|Drama|Thriller
 9377;Kizumonogatari Part 1: Tekketsu (2016);Action|Animation|Mystery
-9378;Steins;
+9378;Steins;Thriller
 9379;Shin Godzilla (2016);Action|Adventure|Fantasy|Sci-Fi
 9380;Winnie Pooh (1969);Animation|Children
 9381;Winnie the Pooh Goes Visiting (1971);Animation
@@ -9755,3 +9755,4 @@ movieId;title;genres
 9745;;Animation|Comedy|Fantasy
 9746;;Documentary
 9747;;Action|Animation
+9501;;Action|Comedy
